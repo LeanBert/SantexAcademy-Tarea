@@ -15,8 +15,15 @@
 
 /* estilo de menu de la derecha */
 div#header-right{
+    
     display: inline-flex;
     align-items: center;
+    
+}
+
+p:hover{
+    background-color: yellow;
+    cursor: pointer;
 }
 
 /* estilo de etiquetas p */
