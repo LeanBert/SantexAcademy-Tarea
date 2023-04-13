@@ -21,6 +21,7 @@ div#header-right{
     
 }
 
+/* efecto cuando pasa el puntero del mouse sobre el menú */
 p:hover{
     background-color: yellow;
     cursor: pointer;
